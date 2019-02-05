@@ -1,0 +1,14 @@
+D:\graduationProject\jxau-software-competition\jxau-software-competition-repository\src\main\java\cn\edu\jxau\dao\BaseEnvironmentAware.java
+D:\graduationProject\jxau-software-competition\jxau-software-competition-repository\src\main\java\cn\edu\jxau\dao\BaseRegionAware.java
+D:\graduationProject\jxau-software-competition\jxau-software-competition-repository\src\main\java\cn\edu\jxau\dao\util\AbstractMapperTemplate.java
+D:\graduationProject\jxau-software-competition\jxau-software-competition-repository\src\main\java\cn\edu\jxau\dao\IUserDAO.java
+D:\graduationProject\jxau-software-competition\jxau-software-competition-repository\src\main\java\cn\edu\jxau\dao\dataobject\BaseDO.java
+D:\graduationProject\jxau-software-competition\jxau-software-competition-repository\src\main\java\cn\edu\jxau\dao\util\MapperUtil.java
+D:\graduationProject\jxau-software-competition\jxau-software-competition-repository\src\main\java\cn\edu\jxau\dao\dataobject\UserQuery.java
+D:\graduationProject\jxau-software-competition\jxau-software-competition-repository\src\main\java\cn\edu\jxau\dao\impl\UserDAOImpl.java
+D:\graduationProject\jxau-software-competition\jxau-software-competition-repository\src\main\java\cn\edu\jxau\dao\config\JxauDataSourceConfig.java
+D:\graduationProject\jxau-software-competition\jxau-software-competition-repository\src\main\java\cn\edu\jxau\dao\dataobject\enums\BaseEnvironment.java
+D:\graduationProject\jxau-software-competition\jxau-software-competition-repository\src\main\java\cn\edu\jxau\dao\dataobject\BaseRegion.java
+D:\graduationProject\jxau-software-competition\jxau-software-competition-repository\src\main\java\cn\edu\jxau\dao\dataobject\BaseQuery.java
+D:\graduationProject\jxau-software-competition\jxau-software-competition-repository\src\main\java\cn\edu\jxau\dao\impl\BaseDAO.java
+D:\graduationProject\jxau-software-competition\jxau-software-competition-repository\src\main\java\cn\edu\jxau\dao\dataobject\UserDO.java

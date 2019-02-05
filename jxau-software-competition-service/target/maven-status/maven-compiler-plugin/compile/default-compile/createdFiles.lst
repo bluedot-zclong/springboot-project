@@ -1,0 +1,8 @@
+cn\edu\jxau\service\bo\UserQueryBO.class
+cn\edu\jxau\service\bo\UserBO.class
+cn\edu\jxau\service\IUserService.class
+cn\edu\jxau\service\bo\UserQueryBO$UserQueryBOBuilder.class
+cn\edu\jxau\service\impl\UserServiceImpl.class
+cn\edu\jxau\service\bo\UserWriteBO.class
+cn\edu\jxau\service\bo\convert\UserConvertImpl.class
+cn\edu\jxau\service\bo\convert\UserConvert.class
